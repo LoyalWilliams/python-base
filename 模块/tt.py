@@ -1,0 +1,4 @@
+import sendmsg
+
+print "test"
+
